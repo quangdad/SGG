@@ -1,0 +1,24 @@
+/* <style>
+                        @media (max-width: 991.98px) {
+                            .menu-area.special-header .mobile-nav-toggler{background: transparent; width: initial; align-items: center!important;}
+                            .menu-area.special-header .mobile-nav-toggler i{border-radius: 8px; font-size: 18px; width: 32px; height: 32px; line-height: 32px; color: #fff; background-image: none; background-color: #00b1e2; text-align: center; display: block; min-width: 32px; margin: auto;}
+                            .menu-area.special-header .mobile-nav-toggler span{color: #000; font-size: 12px; display: inline-block; position: relative; top: -8px;}
+                            .header-search {background: transparent; width: initial; align-items: center !important;}
+                            .header-search i {border-radius: 8px; font-size: 18px;  width: 32px;  height: 32px; line-height: 32px; color: #fff;  background-image: none; background-color: #00b1e2; text-align: center; display: block;  min-width: 32px; margin: auto;}
+                            .header-search span { color: #000; font-size: 12px; display: inline-block; position: relative; top: -8px; }
+                        }
+                    </style> */
+/* @media screen and (min-width: 993px){
+                        .navbar-wrap ul li .submenu{min-width: 350px;}
+                    } */
+
+.col-12 {
+    background-color: #f1f1f1;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    width: 1348px;
+    height: 90px;
+    }
